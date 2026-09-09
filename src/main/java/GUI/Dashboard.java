@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package CODE;
+package GUI;
 
 /**
  *
@@ -67,7 +67,6 @@ public class Dashboard extends javax.swing.JFrame {
         jButton4.setPreferredSize(new java.awt.Dimension(88, 23));
 
         jButton5.setText("Payment");
-        jButton5.setActionCommand("Payment");
         jButton5.setMaximumSize(new java.awt.Dimension(88, 23));
         jButton5.setMinimumSize(new java.awt.Dimension(88, 23));
         jButton5.setPreferredSize(new java.awt.Dimension(88, 23));
